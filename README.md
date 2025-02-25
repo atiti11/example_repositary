@@ -1,6 +1,6 @@
 # ÚKOL č.1
 
-Vytvoř si fork tohoto repozitáře k sobě na účet.
+Vytvoř si fork tohoto repozitáře (včetně všech větví) k sobě na účet.
 
 # ÚKOL č. 2
 
